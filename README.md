@@ -2,4 +2,4 @@
 
 Gathering CTF CheatSheet and Offsec Notes !
 
-This Reop is a work in progress !
+This Repo is a work in progress !
