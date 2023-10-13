@@ -5,6 +5,7 @@
 IDA Pro
 Ghidra
 Binary Ninja
+Radare2
 
 ## Dynamic Analysis
 
@@ -15,3 +16,7 @@ Dynamic Analysis Tools (strace, ltrace)
 
 Analyzing Malicious Binaries
 Behavior Analysis
+
+checksec
+
+# Windows PE studio
