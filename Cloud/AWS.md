@@ -38,7 +38,7 @@ AWS allows you to make snapshots of EC2's and databases (RDS). The main purpose 
 
 # Mounting a snapshot
 http://level4-1156739cfb264ced6de514971a4bef68.flaws.cloud/hint2.html
-
+```aws --profile flaws sts get-caller-identity```
 ```aws --profile flaws  ec2 describe-snapshots --owner-id 975426262029```
 
 
