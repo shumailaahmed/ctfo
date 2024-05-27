@@ -1,0 +1,50 @@
+1. Burp Suite
+2. OWASP ZAP
+3. Nmap
+4. Metasploit
+5. Nikto
+6. Wireshark
+7. sqlmap
+8. Nessus
+9. Acunetix
+10. DirBuster
+11. BeEF
+12. w3af
+13. Hydra
+14. XSStrike
+15. Sublist3r
+16. Hashcat
+17. John the Ripper
+18. Recon-ng
+19. Shodan
+20. XSSer
+21. WPScan
+22. Vega
+23. Arachni
+24. Gobuster
+25. Nikto
+26. OWASP Amass
+27. Hping
+28. CeWL
+29. Fiddler
+30. L0phtCrack
+31. SQLNinja
+32. Sqlsus
+33. YARA
+34. SQLMate
+35. Binwalk
+36. AutoRecon
+37. XSSer
+38. Skipfish
+39. WPScan
+40. JoomScan
+41. Droopescan
+42. WhatWeb
+43. DirBuster
+44. Masscan
+45. Metagoofil
+46. Wfuzz
+47. EyeWitness
+48. InSpy
+49. Sn1per
+50. Dirsearch
